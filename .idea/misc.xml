@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/MovieMVVM/app/src/main/res/layout/activity_movie_detail.xml" value="0.152" />
+        <entry key="..\:/Android/MovieMVVM/app/src/main/res/layout/activity_main.xml" value="0.13645833333333332" />
+        <entry key="..\:/Android/MovieMVVM/app/src/main/res/layout/activity_movie_detail.xml" value="0.2" />
+        <entry key="..\:/Android/MovieMVVM/app/src/main/res/layout/item_movie_popular.xml" value="0.4247787610619469" />
+        <entry key="..\:/Android/MovieMVVM/app/src/main/res/layout/item_network_state.xml" value="0.13645833333333332" />
       </map>
     </option>
   </component>
